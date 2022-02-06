@@ -30,4 +30,4 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/ttys0/argocd:v2.2.3
+            ghcr.io/ttys0/argocd:v2.2.5
