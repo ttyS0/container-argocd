@@ -1,4 +1,4 @@
-FROM quay.io/argoproj/argocd:v2.3.2
+FROM quay.io/argoproj/argocd:v2.3.3
 LABEL org.opencontainers.image.source="https://github.com/ttyS0/container-argocd"
 
 USER root
